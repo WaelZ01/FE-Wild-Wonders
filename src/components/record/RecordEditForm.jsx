@@ -164,5 +164,4 @@ const handleSubmitSpecies = (event) => {
       </div>
     </div>
   )
-
 }
